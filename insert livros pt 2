@@ -15,7 +15,7 @@ values
 (null, "Drama");
 
 insert into tb_livro
-values ("7964927382901", "Nick", "Editora 34", 96, 3, 1983, 3),
+values ("7964927382901", "Nick", "Editora 34", 96, 3, 1990, 3),
 ("8974637289019", "Minha experiência lésbica com a solidão", "East Press", 152, 4, 2016, 1),
 ("8936475890193", "Uzumaki", "Panini", 556, 3, 1998, 2),
 ("8943702849578", "Um ano solitario", "Rocco", 392, 3, 2014, 3),
