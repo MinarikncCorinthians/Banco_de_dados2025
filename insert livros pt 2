@@ -23,7 +23,7 @@ values ("7964927382901", "Nick", "Editora 34", 96, 3, 1990, 3),
 ("9984029895642", "Diario da minha experiência comigo mesma", "NewPOP", 252, 1, 2017, 1),
 ("9867582345612", "Angústia ", "DarkSide Books", 224, 2, 2020, 2),
 ("3547829019645", "Sem amor", "Rocco", 384, 3, 2020, 3),
-("1678945627453", "Look Back", "Paninir", 144, 1, 2021, 4),
+("1678945627453", "Look Back", "Panini", 144, 1, 2021, 4),
 ("1863547825364", "Chainsaw man", "Panini", 192, 2, 2018, 4);
 
 insert into tb_item_categoria
