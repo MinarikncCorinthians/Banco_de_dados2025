@@ -1,0 +1,40 @@
+insert into tb_autor
+values (null, "Nick", 0),
+(null, "Kabi nagata", 1),
+(null, "Junji Ito", 0),
+(null, "Alice Oseman", 1),
+(null, "Tatsuki Fujimoto", 1);
+
+insert into tb_categoria 
+values 
+(null, "Nick"),
+(null, "Suspense"),
+(null, "Ficção Científica"),
+(null, "Romance"),
+(null, "Auto-Ajuda"),
+(null, "Drama");
+
+insert into tb_livro
+values ("7964927382901", "Nick", "Editora 34", 96, 3, 1983, 3),
+("8974637289019", "Minha experiência lésbica com a solidão", "East Press", 152, 4, 2016, 1),
+("8936475890193", "Uzumaki", "Panini", 556, 3, 1998, 2),
+("8943702849578", "Um ano solitario", "Rocco", 392, 3, 2014, 3),
+("8390298564782",  "Adeus, Eri", "Panini", 200, 6, 2022, 4),
+("9984029895642", "Diario da minha experiência comigo mesma", "NewPOP", 252, 1, 2017, 1),
+("9867582345612", "Angústia ", "DarkSide Books", 224, 2, 2020, 2),
+("3547829019645", "Sem amor", "Rocco", 384, 3, 2020, 3),
+("1678945627453", "Look Back", "Paninir", 144, 1, 2021, 4),
+("1863547825364", "Chainsaw man", "Panini", 192, 2, 2018, 4);
+
+insert into tb_item_categoria
+values 
+(null, "8974637289019", 1),
+(null, "8936475890193", 6),
+(null, "8943702849578", 3),
+(null, "8390298564782", 4),
+(null, "9984029895642", 3),
+(null, "9867582345612", 2),
+(null, "3547829019645", 3),
+(null, "1678945627453", 5),
+(null, "1678945627453", 4),
+(null, "7964927382901", 2);
